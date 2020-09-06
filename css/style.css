@@ -1,0 +1,15 @@
+.header,.body-p{
+background-color: #99d9ea;
+padding:20px;
+}
+p{
+	font-size: 20px;
+	font-weight: 700;
+	margin: 0px;
+}
+.hero,.body{
+		margin: 20px 0;
+}
+.body-p{
+padding: 30px;
+}
